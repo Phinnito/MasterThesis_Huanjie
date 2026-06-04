@@ -20,7 +20,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import statsmodels.api as sm
-from scipy.stats import norm  # 新增 norm 用于百分位转 Z-score
+from scipy.stats import norm  
 import warnings
 import re
 from itertools import product
